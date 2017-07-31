@@ -13,5 +13,8 @@ System.out.println("str>>"+str);//시스템디버깅용 콘솔창에 뜨워
 out.println("<h1>"+"str>>"+str+"</h1>");//웹에 출력할때 사용
 %>
 	<%=str%>	
+		<hr>
+		str 값 출력=<%=str %>
+		
 </body>
 </html>
