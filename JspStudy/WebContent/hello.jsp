@@ -15,6 +15,7 @@ out.println("<h1>"+"str>>"+str+"</h1>");//웹에 출력할때 사용
 	<%=str%>	
 		<hr>
 		str 값 출력=<%=str %>
-		
+<hr>
+	2:<%=(3*5)%>
 </body>
 </html>
